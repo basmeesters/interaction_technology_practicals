@@ -1,0 +1,25 @@
+\\solis-storage.soliscom.uu.nl\3664856\b3it\template practical\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+\\solis-storage.soliscom.uu.nl\3664856\b3it\template practical\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+\\solis-storage.soliscom.uu.nl\3664856\b3it\template practical\VoiceRecognition\obj\x86\Debug\WindowsFormsApplication1.exe
+\\solis-storage.soliscom.uu.nl\3664856\b3it\template practical\VoiceRecognition\obj\x86\Debug\WindowsFormsApplication1.pdb
+\\solis-storage.soliscom.uu.nl\3664856\b3it\template practical\VoiceRecognition\bin\Debug\WindowsFormsApplication1.exe
+\\solis-storage.soliscom.uu.nl\3664856\b3it\template practical\VoiceRecognition\bin\Debug\WindowsFormsApplication1.pdb
+\\solis-storage.soliscom.uu.nl\3664856\b3it\template practical\VoiceRecognition\obj\x86\Debug\WindowsFormsApplication1.VoiceRecognition.resources
+\\solis-storage.soliscom.uu.nl\3664856\b3it\template practical\VoiceRecognition\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\solis-storage.soliscom.uu.nl\3664856\b3it\template practical\VoiceRecognition\obj\x86\Debug\VoiceRecognition.csproj.GenerateResource.Cache
+\\solis-storage.soliscom.uu.nl\3664856\edu.3664856.interactietech\Practical1_Voice_recog\VoiceRecognition\obj\x86\Debug\WindowsFormsApplication1.exe
+\\solis-storage.soliscom.uu.nl\3664856\edu.3664856.interactietech\Practical1_Voice_recog\VoiceRecognition\obj\x86\Debug\WindowsFormsApplication1.pdb
+\\solis-storage.soliscom.uu.nl\3664856\edu.3664856.interactietech\Practical1_Voice_recog\VoiceRecognition\bin\Debug\WindowsFormsApplication1.exe
+\\solis-storage.soliscom.uu.nl\3664856\edu.3664856.interactietech\Practical1_Voice_recog\VoiceRecognition\bin\Debug\WindowsFormsApplication1.pdb
+\\solis-storage.soliscom.uu.nl\3664856\edu.3664856.interactietech\Practical1_Voice_recog\VoiceRecognition\obj\x86\Debug\WindowsFormsApplication1.VoiceRecognition.resources
+\\solis-storage.soliscom.uu.nl\3664856\edu.3664856.interactietech\Practical1_Voice_recog\VoiceRecognition\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\solis-storage.soliscom.uu.nl\3664856\edu.3664856.interactietech\Practical1_Voice_recog\VoiceRecognition\obj\x86\Debug\VoiceRecognition.csproj.GenerateResource.Cache
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical1_Voice_recog\VoiceRecognition\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical1_Voice_recog\VoiceRecognition\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical1_Voice_recog\VoiceRecognition\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical1_Voice_recog\VoiceRecognition\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical1_Voice_recog\VoiceRecognition\obj\x86\Debug\WindowsFormsApplication1.VoiceRecognition.resources
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical1_Voice_recog\VoiceRecognition\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical1_Voice_recog\VoiceRecognition\obj\x86\Debug\VoiceRecognition.csproj.GenerateResource.Cache
+C:\Users\Bas\Desktop\Interaction Technology\Backup\Practical1_Voice_recog\VoiceRecognition\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Bas\Desktop\Interaction Technology\Backup\Practical1_Voice_recog\VoiceRecognition\obj\x86\Debug\WindowsFormsApplication1.pdb

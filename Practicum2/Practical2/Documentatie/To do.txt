@@ -1,0 +1,16 @@
+Features
+
+- Gezichtsdetectie inbouwen mbv Viola-Jones algoritme
+- Aan de hand van de coordinaten van het gedetecteerde gezicht de randen van één kwart van het scherm rood doen oplichten (drawing Image(TColor, TDepth).Draw Method)
+
+- Marker detectie mbv EmguCv functies (real time detectie)
+- Kleur van marker naar andere kleur veranderen en real-time laten zien
+
+
+
+
+
+Bugs
+
+- Reset button moet alleen verschijnen na het afspelen van een filmpje (zodat je weer kunt opnemen). Verschijnt nu ook na het opnemen van een filmpje, moet gefixt worden.
+

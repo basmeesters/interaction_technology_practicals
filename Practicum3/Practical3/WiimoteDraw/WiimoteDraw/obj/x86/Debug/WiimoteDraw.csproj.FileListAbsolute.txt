@@ -1,0 +1,7 @@
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\WiimoteDraw\WiimoteDraw\bin\Debug\WiimoteDraw.exe
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\WiimoteDraw\WiimoteDraw\bin\Debug\WiimoteDraw.pdb
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\WiimoteDraw\WiimoteDraw\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\WiimoteDraw\WiimoteDraw\obj\x86\Debug\WindowsFormsApplication1.WiimoteDraw.resources
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\WiimoteDraw\WiimoteDraw\obj\x86\Debug\WiimoteDraw.csproj.GenerateResource.Cache
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\WiimoteDraw\WiimoteDraw\obj\x86\Debug\WiimoteDraw.exe
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\WiimoteDraw\WiimoteDraw\obj\x86\Debug\WiimoteDraw.pdb

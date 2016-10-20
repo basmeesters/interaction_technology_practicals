@@ -1,0 +1,26 @@
+C:\Users\Bas\Dropbox\Universiteit\practical1_template\Template practical 3\WindowsFormsApplication1\bin\Debug\Voice Control.exe
+C:\Users\Bas\Dropbox\Universiteit\practical1_template\Template practical 3\WindowsFormsApplication1\bin\Debug\Voice Control.pdb
+C:\Users\Bas\Dropbox\Universiteit\practical1_template\Template practical 3\WindowsFormsApplication1\obj\x86\Debug\VoiceControl.VoiceRecognition.resources
+C:\Users\Bas\Dropbox\Universiteit\practical1_template\Template practical 3\WindowsFormsApplication1\obj\x86\Debug\VoiceControl.Properties.Resources.resources
+C:\Users\Bas\Dropbox\Universiteit\practical1_template\Template practical 3\WindowsFormsApplication1\obj\x86\Debug\VoiceControl.csproj.GenerateResource.Cache
+C:\Users\Bas\Dropbox\Universiteit\practical1_template\Template practical 3\WindowsFormsApplication1\obj\x86\Debug\Voice Control.exe
+C:\Users\Bas\Dropbox\Universiteit\practical1_template\Template practical 3\WindowsFormsApplication1\obj\x86\Debug\Voice Control.pdb
+C:\Users\Bas\Dropbox\Universiteit\practical1_template\Template practical 3\WindowsFormsApplication1\obj\x86\Debug\VoiceControl.csprojResolveAssemblyReference.cache
+C:\Users\Bas\Dropbox\Universiteit\practical1_template\Template practical 3\VoiceControl\obj\x86\Debug\Voice Control.exe
+C:\Users\Bas\Dropbox\Universiteit\practical1_template\Template practical 3\VoiceControl\obj\x86\Debug\Voice Control.pdb
+C:\Users\Bas\Dropbox\Universiteit\practical1_template\Template practical 3\VoiceControl\bin\Debug\Voice Control.exe
+C:\Users\Bas\Dropbox\Universiteit\practical1_template\Template practical 3\VoiceControl\bin\Debug\Voice Control.pdb
+C:\Users\Bas\Dropbox\Universiteit\practical1_template\Template practical 3\VoiceControl\obj\x86\Debug\VoiceControl.csprojResolveAssemblyReference.cache
+C:\Users\Bas\Dropbox\Universiteit\practical1_template\Template practical 3\VoiceControl\obj\x86\Debug\VoiceControl.VoiceRecognition.resources
+C:\Users\Bas\Dropbox\Universiteit\practical1_template\Template practical 3\VoiceControl\obj\x86\Debug\VoiceControl.Properties.Resources.resources
+C:\Users\Bas\Dropbox\Universiteit\practical1_template\Template practical 3\VoiceControl\obj\x86\Debug\VoiceControl.csproj.GenerateResource.Cache
+C:\Users\Jonatan\Desktop\universiteit\jaar 4\interactietechnologie\practicum\edu.3664856.interactietech\practical1_template\Template practical 3\VoiceControl\obj\x86\Debug\Voice Control.exe
+C:\Users\Jonatan\Desktop\universiteit\jaar 4\interactietechnologie\practicum\edu.3664856.interactietech\practical1_template\Template practical 3\VoiceControl\obj\x86\Debug\Voice Control.pdb
+C:\Users\Bas\Desktop\Interaction Technology\SVN\practical1_template\Template practical 3\VoiceControl\obj\x86\Debug\Voice Control.exe
+C:\Users\Bas\Desktop\Interaction Technology\SVN\practical1_template\Template practical 3\VoiceControl\obj\x86\Debug\Voice Control.pdb
+C:\Users\Bas\Desktop\Interaction Technology\SVN\practical1_template\Template practical 3\VoiceControl\bin\Debug\Voice Control.exe
+C:\Users\Bas\Desktop\Interaction Technology\SVN\practical1_template\Template practical 3\VoiceControl\bin\Debug\Voice Control.pdb
+C:\Users\Bas\Desktop\Interaction Technology\SVN\practical1_template\Template practical 3\VoiceControl\obj\x86\Debug\VoiceControl.csprojResolveAssemblyReference.cache
+C:\Users\Bas\Desktop\Interaction Technology\SVN\practical1_template\Template practical 3\VoiceControl\obj\x86\Debug\VoiceControl.VoiceRecognition.resources
+C:\Users\Bas\Desktop\Interaction Technology\SVN\practical1_template\Template practical 3\VoiceControl\obj\x86\Debug\VoiceControl.Properties.Resources.resources
+C:\Users\Bas\Desktop\Interaction Technology\SVN\practical1_template\Template practical 3\VoiceControl\obj\x86\Debug\VoiceControl.csproj.GenerateResource.Cache

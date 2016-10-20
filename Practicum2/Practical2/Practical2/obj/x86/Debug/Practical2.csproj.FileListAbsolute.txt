@@ -1,0 +1,197 @@
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\cudart32_40_17.dll
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\cvextern.dll
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\cvextern_gpu.dll
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\haarcascade_eye.xml
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\opencv_calib3d231.dll
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\opencv_contrib231.dll
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\opencv_core231.dll
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\opencv_features2d231.dll
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\opencv_flann231.dll
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\opencv_highgui231.dll
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\opencv_imgproc231.dll
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\opencv_legacy231.dll
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\opencv_ml231.dll
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\opencv_objdetect231.dll
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\opencv_video231.dll
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\ZedGraph.dll
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\Practical2.exe
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\Practical2.pdb
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\bin\Debug\Emgu.CV.UI.xml
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\obj\x86\Debug\Practical2.Form1.resources
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\obj\x86\Debug\Practical2.Properties.Resources.resources
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\obj\x86\Debug\Practical2.exe
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 2\Empty Project - Practical2\Practical2\obj\x86\Debug\Practical2.pdb
+C:\Users\Bas\Desktop\Interaction Technology\Templates\practical2\Empty Project - Practical\Practical2\obj\x86\Debug\Practical2.exe
+C:\Users\Bas\Desktop\Interaction Technology\Templates\practical2\Empty Project - Practical\Practical2\obj\x86\Debug\Practical2.pdb
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\obj\x86\Debug\Practical2.exe
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\obj\x86\Debug\Practical2.pdb
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\obj\x86\Debug\Practical2.csprojResolveAssemblyReference.cache
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\obj\x86\Debug\Practical2.Form1.resources
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\obj\x86\Debug\Practical2.Properties.Resources.resources
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\obj\x86\Debug\Practical2.csproj.GenerateResource.Cache
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\cudart32_40_17.dll
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\cvextern.dll
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\cvextern_gpu.dll
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\haarcascade_eye.xml
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\opencv_calib3d231.dll
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\opencv_contrib231.dll
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\opencv_core231.dll
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\opencv_features2d231.dll
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\opencv_flann231.dll
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\opencv_highgui231.dll
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\opencv_imgproc231.dll
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\opencv_legacy231.dll
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\opencv_ml231.dll
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\opencv_objdetect231.dll
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\opencv_video231.dll
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\ZedGraph.dll
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\Practical2.exe
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\Practical2.pdb
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Bas\Desktop\Interaction Technology\practical2\Empty Project - Practical\Practical2\bin\Debug\picture000.jpg
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\obj\x86\Debug\Practical2.exe
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\obj\x86\Debug\Practical2.pdb
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\cvextern_gpu.dll
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\haarcascade_eye.xml
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_core231.dll
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_flann231.dll
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_highgui231.dll
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_ml231.dll
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_video231.dll
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\cudart32_40_17.dll
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\cvextern.dll
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_calib3d231.dll
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_contrib231.dll
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_features2d231.dll
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_imgproc231.dll
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_legacy231.dll
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_objdetect231.dll
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\ZedGraph.dll
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\Practical2.exe
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\Practical2.pdb
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\obj\x86\Debug\Practical2.Form1.resources
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\obj\x86\Debug\Practical2.Properties.Resources.resources
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bas\Desktop\Interaction Technology\edu.3664856.interactietech\Practical2\Practical2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\obj\x86\Debug\Practical2.exe
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\obj\x86\Debug\Practical2.pdb
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\cudart32_40_17.dll
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\cvextern.dll
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\cvextern_gpu.dll
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\haarcascade_eye.xml
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\opencv_calib3d231.dll
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\opencv_contrib231.dll
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\opencv_core231.dll
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\opencv_features2d231.dll
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\opencv_flann231.dll
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\opencv_highgui231.dll
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\opencv_imgproc231.dll
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\opencv_legacy231.dll
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\opencv_ml231.dll
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\opencv_objdetect231.dll
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\opencv_video231.dll
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\ZedGraph.dll
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\Practical2.exe
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\Practical2.pdb
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\obj\x86\Debug\Practical2.csprojResolveAssemblyReference.cache
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\obj\x86\Debug\Practical2.Properties.Resources.resources
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\obj\x86\Debug\Practical2.csproj.GenerateResource.Cache
+C:\Users\Bas\Dropbox\Universiteit\Practical2\Practical2\obj\x86\Debug\Practical2.WebcamFeatures.resources
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\obj\x86\Debug\Practical2.exe
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\obj\x86\Debug\Practical2.pdb
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\cvextern_gpu.dll
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\haarcascade_eye.xml
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_core231.dll
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_flann231.dll
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_highgui231.dll
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_ml231.dll
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_video231.dll
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\cudart32_40_17.dll
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\cvextern.dll
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_calib3d231.dll
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_contrib231.dll
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_features2d231.dll
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_imgproc231.dll
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_legacy231.dll
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\opencv_objdetect231.dll
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\ZedGraph.dll
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\Practical2.exe
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\Practical2.pdb
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\obj\x86\Debug\Practical2.WebcamFeatures.resources
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\obj\x86\Debug\Practical2.Properties.Resources.resources
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Eline Bijkerk\Desktop\Interactietechnologie\edu.3664856.interactietech\Practical2\Practical2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\obj\x86\Debug\Practical2.exe
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\obj\x86\Debug\Practical2.pdb
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\cvextern.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\opencv_core231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\opencv_highgui231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\cudart32_40_17.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\cvextern_gpu.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\haarcascade_eye.xml
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\opencv_calib3d231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\opencv_contrib231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\opencv_features2d231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\opencv_flann231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\opencv_imgproc231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\opencv_legacy231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\opencv_ml231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\opencv_objdetect231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\opencv_video231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\ZedGraph.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\Practical2.exe
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\Practical2.pdb
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\obj\x86\Debug\Practical2.csprojResolveAssemblyReference.cache
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\obj\x86\Debug\Practical2.WebcamFeatures.resources
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\obj\x86\Debug\Practical2.Properties.Resources.resources
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical2\Practical2\obj\x86\Debug\Practical2.csproj.GenerateResource.Cache
+C:\Users\Bas\Desktop\Interaction Technology\Backup\practicum2\Practical2\Practical2\obj\x86\Debug\Practical2.exe
+C:\Users\Bas\Desktop\Interaction Technology\Backup\practicum2\Practical2\Practical2\obj\x86\Debug\Practical2.pdb
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\obj\x86\Debug\Practical2.exe
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\obj\x86\Debug\Practical2.pdb
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\cudart32_40_17.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\cvextern.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\cvextern_gpu.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\haarcascade_eye.xml
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\opencv_calib3d231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\opencv_contrib231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\opencv_core231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\opencv_features2d231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\opencv_flann231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\opencv_highgui231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\opencv_imgproc231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\opencv_legacy231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\opencv_ml231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\opencv_objdetect231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\opencv_video231.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\ZedGraph.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\Practical2.exe
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\Practical2.pdb
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\obj\x86\Debug\Practical2.csprojResolveAssemblyReference.cache
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\obj\x86\Debug\Practical2.WebcamFeatures.resources
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\obj\x86\Debug\Practical2.Properties.Resources.resources
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Poging2\Practical2\Practical2\obj\x86\Debug\Practical2.csproj.GenerateResource.Cache

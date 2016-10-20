@@ -1,0 +1,45 @@
+c:\users\benny\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\benny\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\benny\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\benny\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\benny\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\benny\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\benny\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\benny\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\benny\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+c:\users\benny\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Interop.SpeechLib.dll
+c:\users\benny\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Documents and Settings\benny\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\benny\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\benny\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\benny\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\benny\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\benny\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\benny\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\benny\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\benny\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\benny\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Documents and Settings\benny\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Documents and Settings\benny\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+C:\Documents and Settings\benny\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+C:\Users\benny\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 3\Solution - Voice-based interaction\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\benny\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 3\Solution - Voice-based interaction\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 3\Solution - Voice-based interaction\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\0316261\Desktop\PhD\Teaching\Interactive Design  -  B2\practicals\practical 3\Solution - Voice-based interaction\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+\\soliscom.uu.nl\uu\Users\0316261\Downloads\Solution - Voice-based interaction\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+\\soliscom.uu.nl\uu\Users\0316261\Downloads\Solution - Voice-based interaction\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+\\soliscom.uu.nl\uu\Users\0316261\Downloads\Solution - Voice-based interaction\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\soliscom.uu.nl\uu\Users\0316261\Downloads\Solution - Voice-based interaction\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\soliscom.uu.nl\uu\Users\0316261\Downloads\Solution - Voice-based interaction\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+\\soliscom.uu.nl\uu\Users\0316261\Downloads\Solution - Voice-based interaction\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+\\soliscom.uu.nl\uu\Users\0316261\Downloads\Solution - Voice-based interaction\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\soliscom.uu.nl\uu\Users\0316261\Downloads\Solution - Voice-based interaction\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+\\soliscom.uu.nl\uu\Users\0316261\Downloads\Solution - Voice-based interaction\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+\\solis-storage.soliscom.uu.nl\3664856\b3it\template practical\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+\\solis-storage.soliscom.uu.nl\3664856\b3it\template practical\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+\\solis-storage.soliscom.uu.nl\3664856\b3it\template practical\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\solis-storage.soliscom.uu.nl\3664856\b3it\template practical\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\solis-storage.soliscom.uu.nl\3664856\b3it\template practical\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\solis-storage.soliscom.uu.nl\3664856\b3it\template practical\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+\\solis-storage.soliscom.uu.nl\3664856\b3it\template practical\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.VoiceRecognition.resources
+\\solis-storage.soliscom.uu.nl\3664856\b3it\template practical\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache

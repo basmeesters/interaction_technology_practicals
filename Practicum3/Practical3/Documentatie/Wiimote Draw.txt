@@ -1,0 +1,1 @@
+Hij is in principe klaar - er is alleen nog een kleine bug met cirkels en rechthoeken waarbij het eerste moment dat je er een begint te tekenen, het figuur op de verkeerde plaats verschijnt. 

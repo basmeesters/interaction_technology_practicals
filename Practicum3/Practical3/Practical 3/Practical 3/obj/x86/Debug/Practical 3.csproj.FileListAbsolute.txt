@@ -1,0 +1,9 @@
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\Practical 3 Template\Practical 3\bin\Debug\Practical 3 Template.exe
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\Practical 3 Template\Practical 3\bin\Debug\Practical 3 Template.pdb
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\Practical 3 Template\Practical 3\bin\Debug\WiimoteLib.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\Practical 3 Template\Practical 3\obj\x86\Debug\Practical 3.csprojResolveAssemblyReference.cache
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\Practical 3 Template\Practical 3\obj\x86\Debug\Practical_3_Template.Practical3.resources
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\Practical 3 Template\Practical 3\obj\x86\Debug\Practical_3_Template.Properties.Resources.resources
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\Practical 3 Template\Practical 3\obj\x86\Debug\Practical 3.csproj.GenerateResource.Cache
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\Practical 3 Template\Practical 3\obj\x86\Debug\Practical 3 Template.exe
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\Practical 3 Template\Practical 3\obj\x86\Debug\Practical 3 Template.pdb

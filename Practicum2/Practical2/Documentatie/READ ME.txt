@@ -1,0 +1,17 @@
+Practical 2 v1.0
+
+Students:
+	Eline Bijkerk				3381870
+	Jonatan Felipez Queijo		3664856
+	Bas Meesters				3700569
+
+Manual
+	The program starts in video mode. In this mode, you can record your own videos 	or open new ones by pressing the respective buttons. Variables such as the 		framerate and the size of the display can be changed in the code. 
+	By pressing the Switch to Face Detection button, you will switch to another 		mode in the program. This one detects your face and, depending on your 		settings, shows several things. The regions tickbox allows you to display or 		hide lines that divide the frame into quarters. The lines of the quarter that 		the face is detected in, light up red. The eyes tickbox tracks the eyes and 		draws boxes around them. The detection box, when ticked, shows where a face is 	detected.
+	By pressing the Switch to Marker Tracking, you switch to marker tracking mode. 	This mode allows the tracking of single-colour markers such as a round piece 		of coloured paper. Using this feature requires the user to provide a .bmp with  	the tracker for the program to train on. Clicking the "select tracker color" 		button opens a color picker that allows the user to select the color of the 		tracking circle.
+	Clicking the "switch to video" mode once again allows the user to switch back 		to the original starting mode. 
+
+Known issues
+-
+-
+-

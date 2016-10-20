@@ -1,0 +1,19 @@
+C:\Users\Bas\Desktop\Interaction Technology\Templates\Practical 3 Template\Practical 3 Template\bin\Debug\testsound.wav
+C:\Users\Bas\Desktop\Interaction Technology\Templates\Practical 3 Template\Practical 3 Template\bin\Debug\Practical 3 Template.exe
+C:\Users\Bas\Desktop\Interaction Technology\Templates\Practical 3 Template\Practical 3 Template\bin\Debug\Practical 3 Template.pdb
+C:\Users\Bas\Desktop\Interaction Technology\Templates\Practical 3 Template\Practical 3 Template\bin\Debug\WiimoteLib.dll
+C:\Users\Bas\Desktop\Interaction Technology\Templates\Practical 3 Template\Practical 3 Template\obj\x86\Debug\Practical 3 Template.csprojResolveAssemblyReference.cache
+C:\Users\Bas\Desktop\Interaction Technology\Templates\Practical 3 Template\Practical 3 Template\obj\x86\Debug\Practical_3_Template.Form1.resources
+C:\Users\Bas\Desktop\Interaction Technology\Templates\Practical 3 Template\Practical 3 Template\obj\x86\Debug\Practical_3_Template.Properties.Resources.resources
+C:\Users\Bas\Desktop\Interaction Technology\Templates\Practical 3 Template\Practical 3 Template\obj\x86\Debug\Practical 3 Template.csproj.GenerateResource.Cache
+C:\Users\Bas\Desktop\Interaction Technology\Templates\Practical 3 Template\Practical 3 Template\obj\x86\Debug\Practical 3 Template.exe
+C:\Users\Bas\Desktop\Interaction Technology\Templates\Practical 3 Template\Practical 3 Template\obj\x86\Debug\Practical 3 Template.pdb
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\Practical 3 Template\Practical 3 Template\obj\x86\Debug\Practical 3 Template.exe
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\Practical 3 Template\Practical 3 Template\obj\x86\Debug\Practical 3 Template.pdb
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\Practical 3 Template\Practical 3 Template\bin\Debug\Practical 3 Template.exe
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\Practical 3 Template\Practical 3 Template\bin\Debug\Practical 3 Template.pdb
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\Practical 3 Template\Practical 3 Template\bin\Debug\WiimoteLib.dll
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\Practical 3 Template\Practical 3 Template\obj\x86\Debug\Practical 3 Template.csprojResolveAssemblyReference.cache
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\Practical 3 Template\Practical 3 Template\obj\x86\Debug\Practical_3_Template.Form1.resources
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\Practical 3 Template\Practical 3 Template\obj\x86\Debug\Practical_3_Template.Properties.Resources.resources
+C:\Users\Bas\Desktop\Interaction Technology\SVN\Practical3\Practical 3 Template\Practical 3 Template\obj\x86\Debug\Practical 3 Template.csproj.GenerateResource.Cache
